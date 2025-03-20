@@ -4,7 +4,6 @@ Este é o repositório do curso de extensão em Análise de Dados com Python do 
 
 Aqui você encontrará materiais didáticos, links, artigos, códigos e tudo o que disser respeito ao curso.  Abaixo, apresentamos os links para os arquivos os repositórios de planejamento e de códigos:
 
-
 1. [Repositório de arquivos de planejamento e controle](https://drive.google.com/drive/folders/1v-x_ObiJeY15WOYBVjHROa8XiggCL1lR)
 
 2. [Repositório de arquivos de execução](https://github.com/ecompfin-ufrgs/data_analysis)
